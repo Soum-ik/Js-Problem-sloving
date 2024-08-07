@@ -18,7 +18,11 @@
 // }
 
 // const counter = createCounter();
-// console.dir(counter);
+// console.dir(counter.decrement());
+// console.dir(counter.increment());
+// console.dir(counter.increment());
+// console.dir(counter.increment());
+// console.dir(counter.increment());
 
 
 // -----------------------problem 2-----------------------
@@ -76,3 +80,5 @@
 // }
 
 // findIndex([12, 3, 4, 5, 55], 55);
+
+// -----------------------problem 6-----------------------
